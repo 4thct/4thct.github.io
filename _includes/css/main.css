@@ -455,3 +455,22 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Custom CSS */
+
+.event-entry {
+  margin-bottom: 1em;
+}
+
+.tight {
+  margin-bottom: 0px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bolder;
+  font-size: 18px;
+}
