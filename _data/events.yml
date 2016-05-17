@@ -6,7 +6,7 @@
 
 - date: "May 7-8"
   name: Carry on the Works in the Northern Army
-  description: Living History event
+  description: living history event
   location: Ft. Ticonderoga, NY
   leadership: Cpl. Archacki
 
@@ -26,13 +26,15 @@
   name: 235th Anniversary of the Siege of Yorktown
   description: Reenactment
   location: Newport News, VA
-  leadership: Cpls. Conley & Sorchy
+  leadership: "Cpls. Conley & Sorchy"
 
 - date: "October 8-9"
   name: Dollinger Farm
-  location: WTA Reenactment, Channahon, IL.
+  description: NWTA Reenactment
+  location: Channahon, IL.
 
 - date: "November 19-20"
   name: Ordinary Courage
-  location: Immersion Event, Macktown Settlement, IL
-  leadership: Cpls. Braun Sr & Sorchy.
+  description: immersion event
+  location: Macktown Settlement, IL
+  leadership: "Cpls. Braun Sr. & Sorchy"
